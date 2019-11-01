@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="medical-admin" />
+        <module name="medical-alipay" />
+        <module name="medical-docter" />
+        <module name="medical-eureka-service" />
+        <module name="medical-loginAndRegist" />
+        <module name="medical-model" />
+        <module name="medical-redis" />
+        <module name="medical-solr" />
+        <module name="medical-springboot-admin" />
+        <module name="medical-springcloud-config" />
+        <module name="medical-user" />
+        <module name="medical-utilsAndResponse" />
+        <module name="medical-zipkin-server" />
+        <module name="medical-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="medical-adminService" target="1.8" />
+      <module name="medical-docterService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

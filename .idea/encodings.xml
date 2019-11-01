@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../medical-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-alipay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-docter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-loginAndRegist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-springboot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-springcloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-uploadUtils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-utilsAndResponse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../medical-zuul" charset="UTF-8" />
+  </component>
+</project>
